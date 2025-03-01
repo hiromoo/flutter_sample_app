@@ -1,0 +1,13 @@
+{
+    "name": "Flutter",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "dart-code.flutter",
+                "davidanson.vscode-markdownlint"
+            ]
+        }
+    }
+}
