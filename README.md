@@ -1,4 +1,4 @@
-# sample_app
+# flutter_sample_app
 
 Flutter のサンプルアプリです。
 
